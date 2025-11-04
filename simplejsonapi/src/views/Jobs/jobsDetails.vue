@@ -1,18 +1,15 @@
 <template>
-
-    <h4> Jobs Details </h4>
-    
+    <h4> Jobs Details </h4> 
     <!-- <p>Selected job id: {{ $route.params.id }}</p> -->
-
     <div v-if="title">
-          <h4> title: {{ title }} </h4>
-    <p >Description: {{ desc }}</p>
-    <p >Selected job id: {{ id }}</p>
+      <h4> title: {{ title }} </h4>
+      <p >Description: {{ desc }}</p>
+      <p >Selected job id: {{ id }}</p>
     </div>
 
 </template>
 
-
+<!-- script js -->
 <script>
     export default{
         props: ['id'],
@@ -44,10 +41,9 @@
 
     }
 
-
 </script>
 
-
+<!-- style css -->
 <style scoped>
 
 </style>

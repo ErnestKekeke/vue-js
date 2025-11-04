@@ -1,0 +1,76 @@
+{
+    "movies": 
+        [
+            {   
+                "id": 1,
+                "title": "The Godfather", 
+                "desc": "An epic portrait of the Corleone family, this masterpiece explores power, loyalty, and corruption within the world of organized crime. Michael Corleone, initially reluctant to join his father's mafia empire, is slowly drawn into its dark heart. The Godfather revolutionized American cinema with its rich storytelling, iconic performances, and haunting score — transforming the gangster genre into high art.", 
+                "year": 1972, 
+                "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+                "img_link": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+            },
+
+            {  
+                "id": 2,
+                "title": "The Lord of the Rings: The Return of the King", 
+                "desc": "The final chapter of Tolkien's legendary saga brings the War of the Ring to a breathtaking conclusion. As Frodo and Sam journey toward Mount Doom to destroy the One Ring, Aragorn unites the forces of Middle-earth in a last stand against Sauron. With sweeping visuals, emotional payoff, and powerful themes of courage and sacrifice, this film earned 11 Academy Awards — tying the record for the most ever won.", 
+                "year": 2003, 
+                "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+                "img_link": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg"
+            },
+
+            {  
+                "id": 3,
+                "title": "Inception", 
+                "desc": "A visionary exploration of dreams within dreams, Inception follows Dom Cobb, a thief who infiltrates the subconscious to steal secrets. When offered redemption, he must plant an idea in someone's mind — a dangerous process called “inception.” The film blends philosophical depth, emotional stakes, and mind-bending visuals, challenging viewers to question reality itself. The final shot remains one of the most debated endings in cinema.", 
+                "year": 2010, 
+                "img_link": "https://m.media-amazon.com/images/M/MV5BZjhkNjM0ZTMtNGM5MC00ZTQ3LTk3YmYtZTkzYzdiNWE0ZTA2XkEyXkFqcGc@._V1_.jpg",
+                "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Marion Cotillard"]
+            },
+
+            {  
+                "id": 4,
+                "title": "The Shawshank Redemption", 
+                "desc": "Wrongfully convicted of murder, banker Andy Dufresne faces decades behind bars in Shawshank Prison. Amid corruption and cruelty, he befriends Ellis “Red” Redding and quietly plots an extraordinary escape. A profound meditation on hope, perseverance, and the endurance of the human spirit, this film remains one of cinema’s most uplifting and inspiring stories.", 
+                "year": 1994, 
+                "img_link": "https://m.media-amazon.com/images/I/51r1lzFTpFL._AC_UF894,1000_QL80_.jpg",
+                "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+            },
+
+            {  
+                "id": 5,
+                "title": "The Dark Knight", 
+                "desc": "When Gotham City is threatened by the Joker, an anarchic criminal mastermind, Batman faces his ultimate test — both as a hero and as a man. The film’s gritty realism, psychological depth, and Ledger’s legendary Oscar-winning performance as the Joker transformed the superhero genre into art.", 
+                "year": 2008, 
+                "img_link": "https://m.media-amazon.com/images/S/pv-target-images/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg",
+                "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+            },
+
+            {  
+                "id": 6,
+                "title": "Gladiator", 
+                "desc": "Roman general Maximus is betrayed by the emperor’s ambitious son and forced into slavery. Fighting as a gladiator, he seeks revenge in the arena. Epic, emotional, and beautifully shot, Gladiator is a modern classic about honor, vengeance, and freedom.", 
+                "year": 2000, 
+                "img_link": "https://www.moxiecinema.com/uploads/films/_cover/Gladiator-poster.jpg",
+                "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+            },
+
+            {  
+                "id": 7,
+                "title": "Avengers: Endgame", 
+                "desc": "After Thanos wipes out half of all life, the remaining Avengers unite for one final mission to reverse his devastating act. A powerful mix of action, sacrifice, and emotional closure, Endgame delivers a spectacular conclusion to the Marvel saga.", 
+                "year": 2019,
+                "img_link": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg", 
+                "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+            },
+
+            {  
+                "id": 8,
+                "title": "The Matrix", 
+                "desc": "A computer hacker, Neo, discovers that the world he knows is a simulated reality created by sentient machines to subdue humanity while harvesting their energy. Guided by Morpheus and Trinity, he learns to manipulate the rules of this artificial world, discovering his potential as “The One” who can challenge the machines’ control. The film blends mind-bending action, groundbreaking visual effects (like bullet time), and deep philosophical questions about reality, freedom, and identity. Its mix of cyberpunk aesthetics, martial arts choreography, and existential themes has made it a landmark in both science fiction and pop culture.", 
+                "year": 1999,
+                "img_link": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg", 
+                "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie Anne Moss"]
+            }
+        ]
+}
